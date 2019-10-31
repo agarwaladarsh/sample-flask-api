@@ -1,0 +1,1 @@
+from metadata_portal import app as application
