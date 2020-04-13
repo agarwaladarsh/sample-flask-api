@@ -1,0 +1,25 @@
+{
+  "stereo_duplicated": false,
+  "is_stereo": true,
+  "sampling_rate": 48000,
+  "windowed_avg_amplitude": [
+    0.00024998230404324,
+    0.0002572975158691406,
+    0.00025550725724962024
+  ],
+  "duration_seconds": 10.005333333333333,
+  "peak_count": 41,
+  "SNR": 0.00588160106368538,
+  "mean_amplitude": -36.280502,
+  "window_size_seconds": 3,
+  "windowed_mean_frequency": [
+    3029.327784124464,
+    2517.250922947121,
+    2587.7481588529404
+  ],
+  "windowed_frequency_range": [
+    24000.0,
+    24000.0,
+    24000.0
+  ]
+}

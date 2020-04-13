@@ -12,7 +12,7 @@ class Config(object):
     SECRET_KEY = 'fdhfjkjhfdsfiuhfifhoud3247348938@i3943789ddh'
     MAIL_SERVER_TYPE = 'local'
     MAIL_SENDER = 'Administrator'
-    # MAIL_RECEIVERS = ['anutosh.chaudhuri@zs.com']
+    # MAIL_RECEIVERS = ['']
     MAIL_RECEIVERS = []
     MAIL_DOMAIN_TYPE = 'http://localhost:4200/#/'
-    DATABASE_URI = 'postgresql://postgres:postgres@localhost/<db_name>'
+    DATABASE_URI = 'postgresql://postgres:postgres@localhost/testdb'
